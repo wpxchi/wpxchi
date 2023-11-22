@@ -22,6 +22,7 @@ I'm currently working on PI Countries, a website where you can explore informati
 
 - LinkedIn: www.linkedin.com/in/uriel-castillo-b782b0270
 - Instagram:  Username: pxcchi,   Link:https://www.instagram.com/pxccchi/
+- Email: urielcastillo891@gmail.com  /    bnarrdo@gmail.com
 
 ## Let's Collaborate!
 
