@@ -10,8 +10,8 @@ I am a recent graduate from Henry, specializing in FullStack Development. My pas
 
 ## Technologies I Love
 
-- Frontend: Next.js, TypeScript, Redux Toolkit, Sass, Bootstrap
-- Backend: NestJS, MySql
+- Frontend: Next.js, TypeScript, Redux Toolkit, Sass, Bootstrap, React, Vite
+- Backend: NodeJS,Express, Sequelize, PostgreSql
 - Payment Gateway: MercadoPago
 
 ## What I'm Working On
